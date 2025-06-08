@@ -1,0 +1,74 @@
+2025-06-01 17:29:58.826 | INFO     | __main__:determine_n_components:70 - Determined n_components: 492
+2025-06-01 17:30:00.832 | INFO     | __main__:pca_reduce:85 - projection_matrix: (512, 492)
+2025-06-01 17:30:01.047 | INFO     | __main__:main_pca:108 - ********************
+2025-06-01 17:30:01.047 | INFO     | __main__:main_pca:109 - test full outcome
+2025-06-01 17:30:01.052 | INFO     | __main__:main:38 - processed 0 batches
+2025-06-01 17:30:01.178 | INFO     | __main__:main:38 - processed 10 batches
+2025-06-01 17:30:01.304 | INFO     | __main__:main:38 - processed 20 batches
+2025-06-01 17:30:01.431 | INFO     | __main__:main:38 - processed 30 batches
+2025-06-01 17:30:01.557 | INFO     | __main__:main:38 - processed 40 batches
+2025-06-01 17:30:01.594 | INFO     | __main__:eval_final:27 - txt2image acc: 0.47032640949554894
+2025-06-01 17:30:01.594 | INFO     | __main__:eval_final:28 - image2txt acc: 0.4688427299703264
+2025-06-01 17:30:01.594 | INFO     | __main__:eval_final:29 - final acc: 0.46958456973293766
+2025-06-01 17:30:01.594 | INFO     | __main__:main_pca:112 - ********************
+2025-06-01 17:30:01.594 | INFO     | __main__:main_pca:116 - ********************
+2025-06-01 17:30:01.594 | INFO     | __main__:main_pca:117 - test reduced outcome
+2025-06-01 17:30:01.597 | INFO     | __main__:main:38 - processed 0 batches
+2025-06-01 17:30:01.720 | INFO     | __main__:main:38 - processed 10 batches
+2025-06-01 17:30:01.845 | INFO     | __main__:main:38 - processed 20 batches
+2025-06-01 17:30:01.971 | INFO     | __main__:main:38 - processed 30 batches
+2025-06-01 17:30:02.096 | INFO     | __main__:main:38 - processed 40 batches
+2025-06-01 17:30:02.134 | INFO     | __main__:eval_final:27 - txt2image acc: 0.1102868447082097
+2025-06-01 17:30:02.134 | INFO     | __main__:eval_final:28 - image2txt acc: 0.2062314540059347
+2025-06-01 17:30:02.134 | INFO     | __main__:eval_final:29 - final acc: 0.1582591493570722
+2025-06-01 17:30:02.134 | INFO     | __main__:main_pca:120 - ********************
+2025-06-01 17:30:02.134 | INFO     | __main__:main_pca:124 - ********************
+2025-06-01 17:30:02.134 | INFO     | __main__:main_pca:125 - test original trainset
+2025-06-01 17:30:02.150 | INFO     | __main__:main:38 - processed 0 batches
+2025-06-01 17:30:02.527 | INFO     | __main__:main:38 - processed 10 batches
+2025-06-01 17:30:02.905 | INFO     | __main__:main:38 - processed 20 batches
+2025-06-01 17:30:03.289 | INFO     | __main__:main:38 - processed 30 batches
+2025-06-01 17:30:03.667 | INFO     | __main__:main:38 - processed 40 batches
+2025-06-01 17:30:04.042 | INFO     | __main__:main:38 - processed 50 batches
+2025-06-01 17:30:04.419 | INFO     | __main__:main:38 - processed 60 batches
+2025-06-01 17:30:04.799 | INFO     | __main__:main:38 - processed 70 batches
+2025-06-01 17:30:05.184 | INFO     | __main__:main:38 - processed 80 batches
+2025-06-01 17:30:05.559 | INFO     | __main__:main:38 - processed 90 batches
+2025-06-01 17:30:05.934 | INFO     | __main__:main:38 - processed 100 batches
+2025-06-01 17:30:06.313 | INFO     | __main__:main:38 - processed 110 batches
+2025-06-01 17:30:06.688 | INFO     | __main__:main:38 - processed 120 batches
+2025-06-01 17:30:07.409 | INFO     | __main__:eval_final:27 - txt2image acc: 0.3097709672104136
+2025-06-01 17:30:07.409 | INFO     | __main__:eval_final:28 - image2txt acc: 0.32492997198879553
+2025-06-01 17:30:07.409 | INFO     | __main__:eval_final:29 - final acc: 0.31735046959960456
+2025-06-01 17:30:07.409 | INFO     | __main__:main_pca:128 - ********************
+2025-06-01 17:30:07.409 | INFO     | __main__:main_pca:131 - ********************
+2025-06-01 17:30:07.409 | INFO     | __main__:main_pca:132 - test reduced outcome on trainset
+2025-06-01 17:30:07.424 | INFO     | __main__:main:38 - processed 0 batches
+2025-06-01 17:30:07.808 | INFO     | __main__:main:38 - processed 10 batches
+2025-06-01 17:30:08.197 | INFO     | __main__:main:38 - processed 20 batches
+2025-06-01 17:30:08.584 | INFO     | __main__:main:38 - processed 30 batches
+2025-06-01 17:30:08.977 | INFO     | __main__:main:38 - processed 40 batches
+2025-06-01 17:30:09.383 | INFO     | __main__:main:38 - processed 50 batches
+2025-06-01 17:30:09.775 | INFO     | __main__:main:38 - processed 60 batches
+2025-06-01 17:30:10.152 | INFO     | __main__:main:38 - processed 70 batches
+2025-06-01 17:30:10.532 | INFO     | __main__:main:38 - processed 80 batches
+2025-06-01 17:30:10.916 | INFO     | __main__:main:38 - processed 90 batches
+2025-06-01 17:30:11.297 | INFO     | __main__:main:38 - processed 100 batches
+2025-06-01 17:30:11.684 | INFO     | __main__:main:38 - processed 110 batches
+2025-06-01 17:30:12.080 | INFO     | __main__:main:38 - processed 120 batches
+2025-06-01 17:30:12.601 | INFO     | __main__:eval_final:27 - txt2image acc: 0.08732904926676553
+2025-06-01 17:30:12.602 | INFO     | __main__:eval_final:28 - image2txt acc: 0.1331356071840501
+2025-06-01 17:30:12.602 | INFO     | __main__:eval_final:29 - final acc: 0.11023232822540782
+2025-06-01 17:30:12.602 | INFO     | __main__:main_pca:135 - ********************
+(2022, 512)
+(2022, 512)
+(2022, 2022)
+(2022, 492)
+(2022, 492)
+(2022, 2022)
+(6069, 512)
+(6069, 512)
+(6069, 6069)
+(6069, 492)
+(6069, 492)
+(6069, 6069)

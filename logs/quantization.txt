@@ -1,0 +1,72 @@
+2025-06-01 19:29:11.506 | INFO     | __main__:main_quantization_test:95 - ********************
+2025-06-01 19:29:11.506 | INFO     | __main__:main_quantization_test:96 - Test 8-bit quantization
+2025-06-01 19:29:11.562 | INFO     | cca:main:38 - processed 0 batches
+2025-06-01 19:29:11.958 | INFO     | cca:main:38 - processed 10 batches
+2025-06-01 19:29:12.323 | INFO     | cca:main:38 - processed 20 batches
+2025-06-01 19:29:12.688 | INFO     | cca:main:38 - processed 30 batches
+2025-06-01 19:29:13.052 | INFO     | cca:main:38 - processed 40 batches
+2025-06-01 19:29:13.416 | INFO     | cca:main:38 - processed 50 batches
+2025-06-01 19:29:13.782 | INFO     | cca:main:38 - processed 60 batches
+2025-06-01 19:29:14.151 | INFO     | cca:main:38 - processed 70 batches
+2025-06-01 19:29:14.522 | INFO     | cca:main:38 - processed 80 batches
+2025-06-01 19:29:14.896 | INFO     | cca:main:38 - processed 90 batches
+2025-06-01 19:29:15.269 | INFO     | cca:main:38 - processed 100 batches
+2025-06-01 19:29:15.643 | INFO     | cca:main:38 - processed 110 batches
+2025-06-01 19:29:16.020 | INFO     | cca:main:38 - processed 120 batches
+2025-06-01 19:29:16.582 | INFO     | cca:eval_final:27 - txt2image acc: 0.23562366122919756
+2025-06-01 19:29:16.583 | INFO     | cca:eval_final:28 - image2txt acc: 0.03476684791563684
+2025-06-01 19:29:16.583 | INFO     | cca:eval_final:29 - final acc: 0.1351952545724172
+2025-06-01 19:29:16.584 | INFO     | __main__:main_quantization_test:98 - ********************
+2025-06-01 19:29:16.584 | INFO     | __main__:main_quantization_test:101 - ********************
+2025-06-01 19:29:16.584 | INFO     | __main__:main_quantization_test:102 - Test 4-bit quantization
+2025-06-01 19:29:16.656 | INFO     | cca:main:38 - processed 0 batches
+2025-06-01 19:29:17.027 | INFO     | cca:main:38 - processed 10 batches
+2025-06-01 19:29:17.398 | INFO     | cca:main:38 - processed 20 batches
+2025-06-01 19:29:17.768 | INFO     | cca:main:38 - processed 30 batches
+2025-06-01 19:29:18.141 | INFO     | cca:main:38 - processed 40 batches
+2025-06-01 19:29:18.510 | INFO     | cca:main:38 - processed 50 batches
+2025-06-01 19:29:18.879 | INFO     | cca:main:38 - processed 60 batches
+2025-06-01 19:29:19.253 | INFO     | cca:main:38 - processed 70 batches
+2025-06-01 19:29:19.624 | INFO     | cca:main:38 - processed 80 batches
+2025-06-01 19:29:19.994 | INFO     | cca:main:38 - processed 90 batches
+2025-06-01 19:29:20.363 | INFO     | cca:main:38 - processed 100 batches
+2025-06-01 19:29:20.734 | INFO     | cca:main:38 - processed 110 batches
+2025-06-01 19:29:21.108 | INFO     | cca:main:38 - processed 120 batches
+2025-06-01 19:29:21.589 | INFO     | cca:eval_final:27 - txt2image acc: 0.21769940672379698
+2025-06-01 19:29:21.589 | INFO     | cca:eval_final:28 - image2txt acc: 0.14172709294660515
+2025-06-01 19:29:21.590 | INFO     | cca:eval_final:29 - final acc: 0.17971324983520107
+2025-06-01 19:29:21.591 | INFO     | __main__:main_quantization_test:104 - ********************
+2025-06-01 19:29:21.591 | INFO     | __main__:main_quantization_test:107 - ********************
+2025-06-01 19:29:21.591 | INFO     | __main__:main_quantization_test:108 - Test 8-bit quantization
+2025-06-01 19:29:21.609 | INFO     | cca:main:38 - processed 0 batches
+2025-06-01 19:29:21.731 | INFO     | cca:main:38 - processed 10 batches
+2025-06-01 19:29:21.854 | INFO     | cca:main:38 - processed 20 batches
+2025-06-01 19:29:21.977 | INFO     | cca:main:38 - processed 30 batches
+2025-06-01 19:29:22.101 | INFO     | cca:main:38 - processed 40 batches
+2025-06-01 19:29:22.144 | INFO     | cca:eval_final:27 - txt2image acc: 0.37833827893175076
+2025-06-01 19:29:22.144 | INFO     | cca:eval_final:28 - image2txt acc: 0.09000989119683482
+2025-06-01 19:29:22.144 | INFO     | cca:eval_final:29 - final acc: 0.2341740850642928
+2025-06-01 19:29:22.146 | INFO     | __main__:main_quantization_test:110 - ********************
+2025-06-01 19:29:22.146 | INFO     | __main__:main_quantization_test:113 - ********************
+2025-06-01 19:29:22.146 | INFO     | __main__:main_quantization_test:114 - Test 4-bit quantization
+2025-06-01 19:29:22.164 | INFO     | cca:main:38 - processed 0 batches
+2025-06-01 19:29:22.291 | INFO     | cca:main:38 - processed 10 batches
+2025-06-01 19:29:22.424 | INFO     | cca:main:38 - processed 20 batches
+2025-06-01 19:29:22.560 | INFO     | cca:main:38 - processed 30 batches
+2025-06-01 19:29:22.688 | INFO     | cca:main:38 - processed 40 batches
+2025-06-01 19:29:22.734 | INFO     | cca:eval_final:27 - txt2image acc: 0.3570722057368942
+2025-06-01 19:29:22.734 | INFO     | cca:eval_final:28 - image2txt acc: 0.23788328387734917
+2025-06-01 19:29:22.734 | INFO     | cca:eval_final:29 - final acc: 0.2974777448071217
+2025-06-01 19:29:22.737 | INFO     | __main__:main_quantization_test:116 - ********************
+(6069, 512)
+(6069, 512)
+(6069, 6069)
+(6068, 512)
+(6068, 512)
+(6068, 6068)
+(2022, 512)
+(2022, 512)
+(2022, 2022)
+(2022, 512)
+(2022, 512)
+(2022, 2022)

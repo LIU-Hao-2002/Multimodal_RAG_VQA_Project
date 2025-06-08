@@ -1,0 +1,76 @@
+/root/anaconda3/envs/statenv/lib/python3.10/site-packages/sklearn/cross_decomposition/_pls.py:113: ConvergenceWarning: Maximum number of iterations reached
+  warnings.warn("Maximum number of iterations reached", ConvergenceWarning)
+2025-06-01 18:22:48.628 | INFO     | __main__:cca_reduce:75 - projection_matrix_image: (512, 256)
+2025-06-01 18:22:48.630 | INFO     | __main__:cca_reduce:76 - projection_matrix_text: (512, 256)
+2025-06-01 18:22:48.838 | INFO     | __main__:main_cca:94 - ********************
+2025-06-01 18:22:48.839 | INFO     | __main__:main_cca:95 - test full outcome
+2025-06-01 18:22:48.842 | INFO     | __main__:main:38 - processed 0 batches
+2025-06-01 18:22:48.968 | INFO     | __main__:main:38 - processed 10 batches
+2025-06-01 18:22:49.092 | INFO     | __main__:main:38 - processed 20 batches
+2025-06-01 18:22:49.215 | INFO     | __main__:main:38 - processed 30 batches
+2025-06-01 18:22:49.342 | INFO     | __main__:main:38 - processed 40 batches
+2025-06-01 18:22:49.384 | INFO     | __main__:eval_final:27 - txt2image acc: 0.47032640949554894
+2025-06-01 18:22:49.384 | INFO     | __main__:eval_final:28 - image2txt acc: 0.4688427299703264
+2025-06-01 18:22:49.384 | INFO     | __main__:eval_final:29 - final acc: 0.46958456973293766
+2025-06-01 18:22:49.384 | INFO     | __main__:main_cca:98 - ********************
+2025-06-01 18:22:49.384 | INFO     | __main__:main_cca:101 - ********************
+2025-06-01 18:22:49.384 | INFO     | __main__:main_cca:102 - test reduced outcome
+2025-06-01 18:22:49.387 | INFO     | __main__:main:38 - processed 0 batches
+2025-06-01 18:22:49.514 | INFO     | __main__:main:38 - processed 10 batches
+2025-06-01 18:22:49.641 | INFO     | __main__:main:38 - processed 20 batches
+2025-06-01 18:22:49.767 | INFO     | __main__:main:38 - processed 30 batches
+2025-06-01 18:22:49.890 | INFO     | __main__:main:38 - processed 40 batches
+2025-06-01 18:22:49.957 | INFO     | __main__:eval_final:27 - txt2image acc: 0.3125618199802176
+2025-06-01 18:22:49.957 | INFO     | __main__:eval_final:28 - image2txt acc: 0.29179030662710187
+2025-06-01 18:22:49.957 | INFO     | __main__:eval_final:29 - final acc: 0.30217606330365976
+2025-06-01 18:22:49.957 | INFO     | __main__:main_cca:105 - ********************
+2025-06-01 18:22:49.957 | INFO     | __main__:main_cca:108 - ********************
+2025-06-01 18:22:49.957 | INFO     | __main__:main_cca:109 - test original trainset
+2025-06-01 18:22:49.968 | INFO     | __main__:main:38 - processed 0 batches
+2025-06-01 18:22:50.358 | INFO     | __main__:main:38 - processed 10 batches
+2025-06-01 18:22:50.743 | INFO     | __main__:main:38 - processed 20 batches
+2025-06-01 18:22:51.133 | INFO     | __main__:main:38 - processed 30 batches
+2025-06-01 18:22:51.527 | INFO     | __main__:main:38 - processed 40 batches
+2025-06-01 18:22:51.921 | INFO     | __main__:main:38 - processed 50 batches
+2025-06-01 18:22:52.310 | INFO     | __main__:main:38 - processed 60 batches
+2025-06-01 18:22:52.698 | INFO     | __main__:main:38 - processed 70 batches
+2025-06-01 18:22:53.087 | INFO     | __main__:main:38 - processed 80 batches
+2025-06-01 18:22:53.480 | INFO     | __main__:main:38 - processed 90 batches
+2025-06-01 18:22:53.867 | INFO     | __main__:main:38 - processed 100 batches
+2025-06-01 18:22:54.258 | INFO     | __main__:main:38 - processed 110 batches
+2025-06-01 18:22:54.647 | INFO     | __main__:main:38 - processed 120 batches
+2025-06-01 18:22:55.220 | INFO     | __main__:eval_final:27 - txt2image acc: 0.3097709672104136
+2025-06-01 18:22:55.220 | INFO     | __main__:eval_final:28 - image2txt acc: 0.32492997198879553
+2025-06-01 18:22:55.220 | INFO     | __main__:eval_final:29 - final acc: 0.31735046959960456
+2025-06-01 18:22:55.220 | INFO     | __main__:main_cca:112 - ********************
+2025-06-01 18:22:55.220 | INFO     | __main__:main_cca:115 - ********************
+2025-06-01 18:22:55.220 | INFO     | __main__:main_cca:116 - test reduced outcome on trainset
+2025-06-01 18:22:55.231 | INFO     | __main__:main:38 - processed 0 batches
+2025-06-01 18:22:55.619 | INFO     | __main__:main:38 - processed 10 batches
+2025-06-01 18:22:56.005 | INFO     | __main__:main:38 - processed 20 batches
+2025-06-01 18:22:56.395 | INFO     | __main__:main:38 - processed 30 batches
+2025-06-01 18:22:56.783 | INFO     | __main__:main:38 - processed 40 batches
+2025-06-01 18:22:57.177 | INFO     | __main__:main:38 - processed 50 batches
+2025-06-01 18:22:57.580 | INFO     | __main__:main:38 - processed 60 batches
+2025-06-01 18:22:57.970 | INFO     | __main__:main:38 - processed 70 batches
+2025-06-01 18:22:58.357 | INFO     | __main__:main:38 - processed 80 batches
+2025-06-01 18:22:58.753 | INFO     | __main__:main:38 - processed 90 batches
+2025-06-01 18:22:59.173 | INFO     | __main__:main:38 - processed 100 batches
+2025-06-01 18:22:59.573 | INFO     | __main__:main:38 - processed 110 batches
+2025-06-01 18:22:59.970 | INFO     | __main__:main:38 - processed 120 batches
+2025-06-01 18:23:00.919 | INFO     | __main__:eval_final:27 - txt2image acc: 0.8521997034107761
+2025-06-01 18:23:00.920 | INFO     | __main__:eval_final:28 - image2txt acc: 0.8426429395287527
+2025-06-01 18:23:00.920 | INFO     | __main__:eval_final:29 - final acc: 0.8474213214697643
+2025-06-01 18:23:00.920 | INFO     | __main__:main_cca:119 - ********************
+(2022, 512)
+(2022, 512)
+(2022, 2022)
+(2022, 256)
+(2022, 256)
+(2022, 2022)
+(6069, 512)
+(6069, 512)
+(6069, 6069)
+(6069, 256)
+(6069, 256)
+(6069, 6069)
